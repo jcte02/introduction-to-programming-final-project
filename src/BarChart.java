@@ -8,6 +8,7 @@ import java.util.Map;
 
 import javax.swing.JPanel;
 
+// test test 1 2 3
 public class BarChart extends JPanel {
 	private String title;
 	private Map<String, Double> data;
